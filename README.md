@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>A book trading app that uses a Tinder-style swipe feature to connect users, built with React, Django, and PostgreSQL.<br><br>👯 I’m looking to collaborate on:<br>Web development projects, particularly in front-end and full-stack development with React, Django, and JavaScript.<br><br>🤝 I’m looking for help with:<br>Improving my skills in back-end optimization and performance for large-scale web apps.<br><br>🌱 I’m currently learning:<br>Advanced React techniques, styled-components, and back-end architecture with Django and PostgreSQL.<br><br>💬 Ask me about:<br>My experience in full-stack web development, hackathons, and anything related to early queer house music or poetry authors!<br><br>
+🔭 I’m currently working on:<br>A book trading app that uses a Tinder-style swipe feature to connect users, built with React, Django, and PostgreSQL.<br><br>👯 I’m looking to collaborate on:<br>Web development projects, particularly in front-end and full-stack development with React, Django, and JavaScript.<br><br>🤝 I’m looking for help with:<br>Improving my skills in back-end optimization and performance for large-scale web apps.<br><br>🌱 I’m currently learning:<br>Advanced React techniques, styled-components, and back-end architecture with Django and PostgreSQL.<br><br>
 
 
 # 🌐 How to reach me:
