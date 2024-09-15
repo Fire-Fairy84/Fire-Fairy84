@@ -5,8 +5,7 @@
 
 
 # 🌐 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/esther-p-sarasua/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-p-sarasua/) 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@esarasua@tech.lgbt) 
 
 # 💻 Tech Stack:
