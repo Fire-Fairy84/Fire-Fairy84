@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>A crypto market screener and alert system with a Polymarket maker bot, built with Python, FastAPI, Next.js, and PostgreSQL.<br><br>👯 I’m looking to collaborate on:<br>Web development projects, particularly in backend and fullstack development with React, Python, and Typescript.<br><br>🤝 I’m looking for help with:<br>Improving my skills in backend optimization and performance for large-scale web apps.<br><br>🌱 I’m currently learning:<br>Advanced React techniques, Typescript, Next, and back-end architecture with Django and PostgreSQL.<br><br>💬 Ask me about:<br>My experience in full-stack web development, hackathons, and anything related to early queer house music or poetry authors!<br><br>
+🔭 I’m currently working on:<br><br><br>👯 I’m looking to collaborate on:<br>Web development projects, particularly in backend and fullstack development with React, Python, and Typescript.<br><br>🤝 I’m looking for help with:<br>Improving my skills in backend optimization and performance for large-scale web apps.<br><br>🌱 I’m currently learning:<br>Advanced React techniques, Typescript, Next, and back-end architecture with Django and PostgreSQL.<br><br>💬 Ask me about:<br>My experience in full-stack web development, hackathons, and anything related to early queer house music or poetry authors!<br><br>
 
 
 # 🌐 How to reach me:
